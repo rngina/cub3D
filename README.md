@@ -6,6 +6,10 @@ The goal was to create a dynamic view inside the maze based on the 2D map using 
 
 ![Inside the maze](/screen.png)
 
+Example of the input: the input file includes floor and ceiling colors, textures for walls in each direction and 2D map where "1" represents a wall and "0" represents empty space.
+
+![Input file example](/map_example.png)
+
 ## Controls
 
 - **Look Around**: Use the left and right arrow keys to rotate your view.
